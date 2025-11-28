@@ -39,7 +39,7 @@ pip install pandas==0.22.0 numpy==1.14.0 matplotlib==2.0.2 scipy==1.0.0
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/Aditya041103/recsys-challenge-2018.git
+git clone <repository-url>
 cd recsys-challenge-2018
 ```
 
